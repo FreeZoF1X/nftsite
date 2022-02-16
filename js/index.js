@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	const newTimer = new Date('Feb 16 2022 00:05:00');
+	const newTimer = new Date('Feb 18 2022 00:05:00');
 	
 	const daysVal = document.querySelector('.timer-countdown-days .timer-countdown-time');
 	const hoursVal = document.querySelector('.timer-countdown-hours .timer-countdown-time');
